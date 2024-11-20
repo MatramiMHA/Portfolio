@@ -232,8 +232,8 @@ footer a:hover{
     
     }
     .img2,.img{
-        width:100%;
-        height:100%;
+        width:80%;
+        height:80%;
 
     }
     
@@ -244,7 +244,12 @@ footer a:hover{
         display:flex;
         flex-wrap: wrap;
         
-    };
+        
+    }
+
+    
+
+    
         
     }
  
